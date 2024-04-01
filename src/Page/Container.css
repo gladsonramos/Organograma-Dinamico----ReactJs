@@ -1,0 +1,127 @@
+.line-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.line {
+    margin-right: 3%;
+    margin-left: 3%;
+    width: 97%;
+    /* Define o comprimento da linha */
+    height: 1px;
+    /* Define a espessura da linha */
+    background-color: #dee2e6;
+    /* Define a cor da linha */
+}
+
+.container {
+    background-color: white;
+}
+
+.container.selected {
+    background-color: #a80000;
+}
+
+.circle {
+    width: 30px;
+    height: 15px;
+    border-radius: 100px;
+    display: flex;
+
+}
+
+.icon {
+    size: 20px;
+}
+
+.circle-content {
+    text-align: center;
+    line-height: 15px;
+    /* Centraliza verticalmente */
+    font-size: 9px;
+    font-weight: 600;
+}
+
+.tree-node {
+    background-color: #EAFAFA;
+    padding: 10px;
+    margin-left: 5px;
+    cursor: pointer;
+    width: 230px;
+    margin: 5px;
+}
+
+.tree-node.blue {
+    background-color: #E6F6FC;
+}
+
+.tree-node.selected {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #007e7a;
+
+}
+
+.outer-container {
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.inner-circle {
+    position: absolute;
+    transform: translateY(-50%);
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    z-index: 1;
+    margin-top: 10px;
+}
+
+.outer-teste {
+    display: flex;
+    justify-content: end;
+    position: relative;
+}
+
+
+.node-initials {
+    position: absolute;
+    width: 31px;
+    height: 31px;
+    border-radius: 100px;
+    background-color: white;
+    margin-top: 2px;
+}
+
+.node-initials-text {
+    font-size: 12px;
+    color: #007e7a;
+    font-weight: 700;
+    text-align: center;
+    line-height: 31px;
+    /* Centraliza verticalmente */
+}
+
+.node-initials-text.blue {
+    color: #3CB5E5;
+}
+
+.node-name {
+    font-weight: 700;
+}
+
+.node-cargo {
+    font-size: 10px;
+}
+
+.node-container {
+    margin-right: 10px;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    flex-flow: row wrap;
+}

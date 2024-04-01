@@ -1,0 +1,11 @@
+<svg id="Icon_users" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <rect id="Retângulo_397" data-name="Retângulo 397" width="24" height="24" fill="none"/>
+  <g id="Grupo_1567" data-name="Grupo 1567" transform="translate(-544.022 -416)">
+    <g id="Grupo_1573" data-name="Grupo 1573" transform="translate(556.379 423.99)">
+      <circle id="Elipse_69" data-name="Elipse 69" cx="1.656" cy="1.656" r="1.656" transform="translate(0.999 0)" fill="#bbb"/>
+      <path id="Subtração_8" data-name="Subtração 8" d="M2.822,3.091A2.586,2.586,0,0,1,.906,2.2,3.678,3.678,0,0,1,0,0H5.644a3.678,3.678,0,0,1-.906,2.2A2.586,2.586,0,0,1,2.822,3.091Z" transform="translate(0 4.085)" fill="#bbb"/>
+    </g>
+    <path id="Subtração_7" data-name="Subtração 7" d="M4.364,4.781A4,4,0,0,1,1.4,3.4,5.689,5.689,0,0,1,0,0H8.729a5.689,5.689,0,0,1-1.4,3.4A4,4,0,0,1,4.364,4.781Z" transform="translate(550.022 428.374)" fill="#bbb" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.2"/>
+    <circle id="Elipse_68" data-name="Elipse 68" cx="2.789" cy="2.789" r="2.789" transform="translate(551.598 422)" fill="#bbb"/>
+  </g>
+</svg>
